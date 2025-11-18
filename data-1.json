@@ -1,0 +1,8 @@
+{
+    "deviceID": "g35v_xyz_789",
+    "deviceType": "AssemblyRobot",
+    "timestamp": 1731675600000,
+    "location": "germany/bavaria/munich-tech-park/automation-werk-a/tooling-bay",
+    "operationStatus": "maintenance_due",
+    "temp": 28.5
+}

@@ -1,0 +1,16 @@
+{
+    "deviceID": "g35v_xyz_789",
+    "deviceType": "AssemblyRobot",
+    "timestamp": 1731675600000,
+    "location": {
+        "country": "germany",
+        "city": "bavaria",
+        "area": "munich-tech-park",
+        "factory": "automation-werk-a",
+        "section": "tooling-bay"
+    },
+    "data": {
+        "status": "maintenance_due",
+        "temperature": 28.5
+    }
+}
